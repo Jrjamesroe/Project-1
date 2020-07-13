@@ -1,12 +1,15 @@
 #locationList {
-	background-color: grey;
+  background-color: grey;
 }
 #mapArea {
-	background-color: lightgray;
+  background-color: lightgray;
 }
 .grid-container {
-	height: 100vh;
+  height: 100vh;
 }
 .callout {
-	margin: 0;
+  margin: 0;
+}
+body {
+  background-color: lightgray;
 }
